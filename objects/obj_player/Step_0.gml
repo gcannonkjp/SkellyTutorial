@@ -15,7 +15,7 @@ if (mouse_check_button(mb_left) && (cooldown < 1))
 	cooldown = 10;
 	
 }
-cooldown= cooldown-1;
+cooldown-=1;
 
 //If the shift key is pressed as well increase speed. WIP
 //if (keyboard_check(ord("W")&& keyboard_check(vk_lshift))) y-=8;
