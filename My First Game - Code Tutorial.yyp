@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "5e24c3e9-7210-4a36-a9d1-758d28b860a6",
+            "Value": {
+                "id": "6c5187d6-9b7f-4c3e-8d12-e131b958e3dc",
+                "resourcePath": "tilesets\\tl_background\\tl_background.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "6929d57b-40a7-4b27-8bca-312eaa261e5f",
             "Value": {
                 "id": "c688ea19-965b-4164-93b1-175fffa4c672",
@@ -207,19 +215,19 @@
             }
         },
         {
-            "Key": "e1ca6876-7979-4712-a8bf-9e663e99af6e",
-            "Value": {
-                "id": "6cbf0f78-c282-4fe9-b430-979ff3eb8b85",
-                "resourcePath": "sprites\\s_background\\s_background.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e453e9e2-a540-48ff-86aa-5d1d49f59875",
             "Value": {
                 "id": "07b89e36-9e6f-4fb5-91d7-9139b3604a41",
                 "resourcePath": "objects\\obj_base_shot\\obj_base_shot.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6abc30e-a6c7-4e9d-8513-7b77c0d26828",
+            "Value": {
+                "id": "0b1a099d-e5a1-4f86-8c97-a73b9a9f2d5d",
+                "resourcePath": "sprites\\s_background\\s_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
